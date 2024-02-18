@@ -9,4 +9,8 @@ Work incomplete.
 
 Hopefully to be continued.
 
+Data in zip file.
+Presentation in link below.
+https://public.tableau.com/app/profile/pedro.ligeiro/viz/wEEk_5_prOjEct/Story1
+
 Pedro Ligeiro.
